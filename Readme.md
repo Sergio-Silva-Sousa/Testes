@@ -1,2 +1,3 @@
-OLA OLA
+OLA OLA, eu fui altwrado pelo termux
+
 
