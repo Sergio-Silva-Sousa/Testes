@@ -1,3 +1,3 @@
-OLA OLA, eu fui altwrado pelo termux
+Olá sou um projeto teste, feito apenas por uma pessoa usando celular :)
 
 
