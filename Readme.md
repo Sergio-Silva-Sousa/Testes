@@ -1,3 +1,3 @@
-Olá sou um projeto teste, feito apenas por uma pessoa usando celular :)
+Olá sou um projeto de testes de git, feito apenas por uma pessoa usando celular :)
 
 
